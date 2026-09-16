@@ -18,6 +18,7 @@ Product Search
 *************************************
 
 Pricing
+- Customers can move wishlist products to the shopping cart.
 - Product prices can be updated.
 - Updated prices are reflected in the product catalog.
 
@@ -27,9 +28,10 @@ Pricing
 
 Wishlist Enhancement
 - Customers can remove products from their wishlist.
-- Customers can move wishlist products to the shopping cart.
+-- Customers can move wishlist products directly to checkout.
 
 
+ 
 ****************************************************
 Order Tracking
 - Customers can view order status.
