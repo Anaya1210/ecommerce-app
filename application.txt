@@ -69,3 +69,6 @@ Customer Profile
 - Customers can update their profile information.
 
 ************************************************************
+Payment Timeout Handling
+- Payment requests are monitored for timeout conditions.
+- Timed-out payments are marked for retry.
